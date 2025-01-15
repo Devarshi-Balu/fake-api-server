@@ -1,0 +1,340 @@
+[
+    {
+        "id": 1,
+        "title": "Do something nice for someone you care about",
+        "completed": false,
+        "userId": 152,
+        "description": "Perform a kind act for a loved one such as writing a note or helping with a task"
+    },
+    {
+        "id": 2,
+        "title": "Memorize a poem",
+        "completed": true,
+        "userId": 13,
+        "description": "Choose a poem that resonates with you and commit it to memory for enjoyment or recitation."
+    },
+    {
+        "id": 3,
+        "title": "Watch a classic movie",
+        "completed": true,
+        "userId": 68,
+        "description": "Select a renowned film from cinema history and experience its storytelling and artistry."
+    },
+    {
+        "id": 4,
+        "title": "Watch a documentary",
+        "completed": false,
+        "userId": 84,
+        "description": "Explore a documentary on a topic of interest to gain knowledge and insight."
+    },
+    {
+        "id": 5,
+        "title": "Invest in cryptocurrency",
+        "completed": false,
+        "userId": 163,
+        "description": "Research various cryptocurrencies and consider investing in one that aligns with your financial goals."
+    },
+    {
+        "id": 6,
+        "title": "Contribute code or a monetary donation to an open-source software project",
+        "completed": false,
+        "userId": 69,
+        "description": "Support the open-source community by either coding or donating to projects that you find valuable."
+    },
+    {
+        "id": 7,
+        "title": "Solve a Rubik's cube",
+        "completed": true,
+        "userId": 76,
+        "description": "Challenge yourself to complete a Rubik's cube enhancing your problem-solving skills"
+    },
+    {
+        "id": 8,
+        "title": "Bake pastries for yourself and neighbor",
+        "completed": true,
+        "userId": 198,
+        "description": "Prepare delicious pastries to share with your neighbor fostering community spirit"
+    },
+    {
+        "id": 9,
+        "title": "Go see a Broadway production",
+        "completed": false,
+        "userId": 7,
+        "description": "Experience live theater by attending a Broadway show enjoying the performance and atmosphere"
+    },
+    {
+        "id": 10,
+        "title": "Write a thank you letter to an influential person in your life",
+        "completed": true,
+        "userId": 9,
+        "description": "Express gratitude by writing a heartfelt letter to someone who has positively impacted your life."
+},
+
+    {
+        "id": 11,
+        "title": "Invite some friends over for a game night",
+        "completed": false,
+        "userId": 104,
+        "description": "Gather friends for an evening of fun and games strengthening friendships and creating memories"
+    },
+    {
+        "id": 12,
+        "title": "Have a football scrimmage with some friends",
+        "completed": false,
+        "userId": 32,
+        "description": "Organize a casual football game with friends to enjoy some physical activity and teamwork."
+    },
+    {
+        "id": 13,
+        "title": "Text a friend you haven't talked to in a long time",
+        "completed": true,
+        "userId": 2,
+        "description": "Reach out to reconnect with an old friend sharing updates and rekindling the friendship"
+    },
+    {
+        "id": 14,
+        "title": "Organize pantry",
+        "completed": false,
+        "userId": 46,
+        "description": "Sort and arrange pantry items for better accessibility and to create a more organized kitchen space."
+    },
+    {
+        "id": 15,
+        "title": "Buy a new house decoration",
+        "completed": true,
+        "userId": 105,
+        "description": "Select and purchase a decorative item to enhance your living space's aesthetic."
+    },
+    {
+        "id": 16,
+        "title": "Plan a vacation you've always wanted to take",
+        "completed": true,
+        "userId": 162,
+        "description": "Research and outline the details for a dream vacation including destinations activities and budget"
+    },
+    {
+        "id": 17,
+        "title": "Clean out car",
+        "completed": false,
+        "userId": 71,
+        "description": "Remove clutter from your vehicle ensuring a clean and comfortable driving environment"
+    },
+    {
+        "id": 18,
+        "title": "Draw and color a Mandala",
+        "completed": true,
+        "userId": 6,
+        "description": "Engage in mindfulness by creating and coloring a Mandala promoting relaxation and creativity"
+    },
+    {
+        "id": 19,
+        "title": "Create a cookbook with favorite recipes",
+        "completed": true,
+        "userId": 53,
+        "description": "Compile your favorite recipes into a personalized cookbook for easy reference and sharing."
+    },
+    {
+        "id": 20,
+        "title": "Bake a pie with some friends",
+        "completed": false,
+        "userId": 162,
+        "description": "Gather friends to bake a pie together enjoying the process and sharing delicious results"
+    },
+    {
+        "id": 21,
+        "title": "Create a compost pile",
+        "completed": false,
+        "userId": 13,
+        "description": "Start composting organic waste to reduce landfill contributions and create nutrient-rich soil for gardening."
+    },
+    {
+        "id": 22,
+        "title": "Take a hike at a local park",
+        "completed": true,
+        "userId": 37,
+        "description": "Explore nature by hiking in a nearby park enjoying the outdoors and physical activity"
+    },
+    {
+        "id": 23,
+        "title": "Take a class at local community center that interests you",
+        "completed": true,
+        "userId": 65,
+        "description": "Enroll in a class at your community center to learn something new or develop existing skills."
+    },
+    {
+        "id": 25,
+        "title": "Plan a trip to another country",
+        "completed": false,
+        "userId": 140,
+        "description": "Research and organize the details for an international trip considering destinations accommodations and activities"
+    },
+    {
+        "id": 26,
+        "title": "Improve touch typing",
+        "completed": false,
+        "userId": 178,
+        "description": "Practice touch typing to enhance typing speed and accuracy using online tools or typing software"
+    },
+    {
+        "id": 27,
+        "title": "Learn Express.js",
+        "completed": false,
+        "userId": 194,
+        "description": "Study Express.js a web application framework for Node.js to build web applications and APIs."
+    },
+    {
+        "id": 28,
+        "title": "Learn calligraphy",
+        "completed": false,
+        "userId": 80,
+        "description": "Explore the art of beautiful handwriting by practicing calligraphy techniques and styles."
+    },
+    {
+        "id": 29,
+        "title": "Have a photo session with some friends",
+        "completed": true,
+        "userId": 91,
+        "description": "Gather friends for a fun photo shoot capturing memories in various locations or themes."
+    },
+    {
+        "id": 30,
+        "title": "Go to the gym",
+        "completed": true,
+        "userId": 142,
+        "description": "Visit the gym to engage in physical fitness activities focusing on personal health and wellness"
+    },
+    {
+        "id": 31,
+        "title": "Make own LEGO creation",
+        "completed": true,
+        "userId": 11,
+        "description": "Use LEGO bricks to design and build a unique creation fostering creativity and engineering skills."
+    },
+    {
+        "id": 32,
+        "title": "Take cat on a walk",
+        "completed": true,
+        "userId": 135,
+        "description": "Leash train your cat and take it for a walk outdoors providing exercise and stimulation."
+    },
+    {
+        "id": 33,
+        "title": "Find a charity and donate to it",
+        "completed": true,
+        "userId": 177,
+        "description": "Research charities that resonate with you and contribute financially or through volunteering."
+    },
+    {
+        "id": 34,
+        "title": "Donate to local food bank",
+        "completed": true,
+        "userId": 65,
+        "description": "Support your community by donating food items or funds to a local food bank.d"
+    },
+    {
+        "id": 35,
+        "title": "Uninstall unused apps from devicesd",
+        "completedd": true,
+         "userIdd": 154,
+         "descriptiond": "Free up storage space by removing applications that are no longer needed or used on your devices.d"
+     },
+     {
+         "idd": 36,
+         "titled": "Write a handwritten letter to somebodyd",
+         "completedd": true,
+         "userIdd": 188,
+         "descriptiond": "Reconnect with someone by writing them a heartfelt handwritten letter sharing thoughts or updates.d"
+     },
+     {
+         "idd": 37,
+         "titled": "Fill out a basketball bracketd",
+         "completedd": true,
+         "userIdd": 203,
+         "descriptiond": "Participate in filling out a basketball tournament bracket for fun or competition.d"
+     },
+     {
+         "idd": 38,
+         "titled": "Do yogad",
+         "completedd": true,
+         "userIdd": 165,
+         "descriptiond": "Engage in a yoga session to improve flexibility strength and mental relaxation.d"
+     },
+     {
+         "idd": 39,
+         "titled": "Make a scrapbook with pictures of favorite memoriesd",
+         "completedd": true,
+         "userIdd": 74,
+         "descriptiond": "Create a scrapbook that showcases your cherished memories through photos and mementos.d"
+     },
+     {
+         "idd": 40,
+         "titled": "Have a bonfire with close friendsd",
+         "completedd": false,
+         "userIdd": 185,
+         "descriptiond": "Gather friends for an enjoyable evening around a bonfire sharing stories and roasting marshmallows.d"
+     },
+     {
+         "idd": 41,
+         "titled": "Go for a rund",
+         "completedd": false,
+         "userIdd": 51,
+         "descriptiond": "Set aside time for running to boost cardiovascular health and clear your mind.d"
+     },
+     {
+         "idd": 42,
+         "titled": "Host a movie marathon with some friendsd",
+         "completedd": true,
+         "userIdd": 202,
+         "description": "Select a series of movies to watch back-to-back with friends for an entertaining movie night."
+     },
+     {
+         "id": 43,
+         "title": "Go see a movie in theaters with a few friends",
+          "completed": true,
+          "userId": 206,
+          "description": "Enjoy the cinematic experience by watching a film at the theater with friends."
+      },
+      {
+          "id": 44 ,
+          "title": "Wash car",
+          "completed": true,
+          "userId": 189,
+          "description": "Clean your car inside and out to maintain its appearance and hygiene."
+      },
+      {
+          "id": 45 ,
+          "title": "Patronize a local independent restaurant",
+          "completed": true,
+          "userId": 42,
+          "description": "Support local businesses by dining at an independent restaurant.d"
+      },
+      {
+          "id": 46 ,
+          "title": "Watch a Khan Academy lecture on a subject of choosing",
+          "completed": false ,
+          "userIdd": 135 ,
+            "descriptiond":  "Select an interesting topic from Khan Academy and enhance your knowledge through their lectures.d" 
+      } ,
+      { 
+            "id ": 47  ,
+            "title ":  "Learn Javascript" ,
+            "completed ": false  ,
+            "userId ": 1  ,
+            "description ": "Study Javascript programming language fundamentals to enhance web development skills.d" 
+      } ,
+      { 
+            "id ": 48  ,
+            "title ": "Volunteer at a local animal shelter" ,
+            "completed ": false  ,
+            "userId ": 56  ,
+            "description ":"Contribute time at an animal shelter to help care for animals in need.d" 
+      } ,
+      { 
+            "id ":49  ,
+            "title ":"Volunteer at local food pantry" ,
+            "completed ": true  ,
+            "userId ":18  ,
+            "description ":"Assist at a food pantry by helping distribute food to those in need.d" 
+    }
+    
+]

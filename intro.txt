@@ -1,0 +1,5 @@
+Hello this is Devarshi Balu
+
+Kindly go to these routes to access fake data for you application development 
+
+1. "./todos" - fake todos
